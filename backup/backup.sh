@@ -1,4 +1,4 @@
-export BORG_PASSPHRASE='F2i2023@grp2'
+export BORG_PASSPHRASE='F2i2024@grp7'
 /usr/bin/borg create /backup::sauvegarde__$(date +%Y-%m-%d_%H-%M-%S) ~/docker
 
 
