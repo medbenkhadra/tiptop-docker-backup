@@ -32,5 +32,5 @@ rajouter cette ligne pour réaliser des backups chaque minuitpar exemple:
 
 ## Pour supprimer des sauvegarde 
 ```
-borg delete /backup::sauvegarde__2024-04-03_17-41-54
+borg delete /backup::sauvegarde__2024-12-30_17-41-54
 ```
